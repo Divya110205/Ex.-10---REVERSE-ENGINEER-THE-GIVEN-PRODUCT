@@ -37,8 +37,8 @@
 ![image](https://github.com/Divya110205/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404855/acfe85e9-a412-4fa2-a3e4-b6ce6ded1eb2)
 
 
-### Name:
-### Register Number:
+### Name: DIVYA.A
+### Register Number: 212222230034
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
